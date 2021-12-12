@@ -1,0 +1,14 @@
+:root {
+  /* colors */
+  /* https://www.canva.com/colors/color-wheel/print/eeb111+f1c141/ I could not access the week 7 discussion, plus I change my mind on colors. 
+I am using primary colors-
+#EEB111
+#0A0203
+#969893 */
+  --dominantColor: #969893; /*var(--dominantColor); */
+  --secondaryColor: #0a0203; /*var(--secondaryColor); */
+  --accentColor: #eeb111; /*var(--accentColor); */
+
+  /* vertical, horozontal, blur, spred, color+opacity */
+  --boxShadow: 22px 30px 27px rgba(0, 0, 0, 0.1);
+}
